@@ -45,3 +45,7 @@ Sempre que um novo código é enviado (`push`) ou um Pull Request é aberto, o G
 4. Roda `npm test` para ver se os testes passam no seu computador.
 5. Cria a pasta `.github/workflows/` e coloca o arquivo `ci.yml`.
 6. Sobe tudo pro GitHub (o `.gitignore` vai impedir a `node_modules` de subir).
+
+
+
+teste
